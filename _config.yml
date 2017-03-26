@@ -68,5 +68,5 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: git
-type: git@github.com/jyRainy/jyRainy.github.io.git
+type: https://github.com/jyRainy/jyRainy.github.io.git
 branch: master
